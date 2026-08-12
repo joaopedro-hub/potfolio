@@ -1,8 +1,9 @@
-baseURL: "https://joaopedro-hub.github.io/potfolio/"
-languageCode: pt-br
+baseURL: ""
+locale: pt-br
+
 build:
   writeStats: true
-locale: pt-br
+
 title: "João Pedro | Portfólio"
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 theme: aafu
