@@ -36,6 +36,7 @@ security:
       - '^tailwindcss$'
       - '^npx$'
       - '^npm$'
+      - '^node$'
   funcs:
     getenv:
       - '^HUGO_'
