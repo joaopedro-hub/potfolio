@@ -1,0 +1,27 @@
+{
+  "title": "Habilidades",
+  "panelId": "skill-panel",
+  "icon": "bi bi-list-check",
+  "list": [
+    {
+      "skill": "Backend: Java Web, JSP, JSPF, Arquitetura de Sistemas",
+      "skillrating": 90
+    },
+    {
+      "skill": "Banco de Dados & SQL: PostgreSQL, Modelagem de Dados",
+      "skillrating": 90
+    },
+    {
+      "skill": "Fundamentos: Ciência da Computação, Lógica, Resolução de Problemas",
+      "skillrating": 95
+    },
+    {
+      "skill": "Frontend & Ferramentas: Bootstrap, Git, Controle de Versão",
+      "skillrating": 80
+    },
+    {
+      "skill": "Stack Complementar (Experiências Anteriores): PHP, Laravel, Vue.js",
+      "skillrating": 70
+    }
+  ]
+}

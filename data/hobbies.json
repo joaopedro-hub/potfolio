@@ -1,0 +1,15 @@
+{
+  "title": "Hobbies",
+  "icon": "bi bi-controller",
+  "list": [
+    {
+      "hobby": "Jogos e Cultura Pop"
+    },
+    {
+      "hobby": "Séries e Filmes"
+    },
+    {
+      "hobby": "Explorar novas tecnologias e dados"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Projetos",
+  "icon": "bi bi-kanban",
+  "list": [
+    {
+      "title": "HubStudyTools",
+      "url": "https://github.com/joaopedro-hub/hubstudytools",
+      "description": "Laboratório prático de arquitetura web estática com 20 utilitários voltados para produtividade acadêmica, desenvolvido com Hugo, JavaScript e Bootstrap, hospedado no Cloudflare Pages."
+    },
+    {
+      "title": "Lista de Tarefas (Java Web)",
+      "url": "https://github.com/joaopedro-hub/lista_de_tarefas",
+      "description": "Aplicação web de gerenciamento de tarefas desenvolvida em Java, utilizando servidor Tomcat, JSTL 3.0 e interface estilizada com Bootstrap 5.3.2."
+    },
+    {
+      "title": "CRUD de Funcionários com Login",
+      "url": "https://github.com/joaopedro-hub/crud_funcionarios",
+      "description": "Sistema de cadastro e gerenciamento de funcionários em Java com autenticação de login, integrado a banco de dados PostgreSQL e servidor Tomcat."
+    },
+    {
+      "title": "Site de Eventos (Laravel)",
+      "url": "https://github.com/joaopedro-hub/ProjetoLaravel-SiteEventos",
+      "description": "Aplicação web em PHP utilizando o framework Laravel e banco de dados MySQL para gerenciamento completo de eventos com operações de cadastro, edição, listagem e exclusão."
+    },
+    {
+      "title": "MakeBurger (Vue.js)",
+      "url": "https://github.com/joaopedro-hub/Vue3_Site_MakeBurger",
+      "description": "Aplicação interativa desenvolvida em Vue.js 3 integrada com JSON Server para gerenciamento e montagem de pedidos, fortalecendo conceitos modernos de front-end."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Educação",
+  "icon": "bi bi-mortarboard",
+  "list": [
+    {
+      "degree": "Bacharelado em Ciência da Computação",
+      "college": "Universidade Federal de Sergipe (UFS)",
+      "dates": "2016 - 2024"
+    },
+    {
+      "degree": "Técnico em Informática",
+      "college": "Senai Sergipe",
+      "dates": "2013 - 2014"
+    },
+    {
+      "degree": "Ensino Médio",
+      "college": "Escola Estadual Gonçalo Rollemberg Leite",
+      "dates": "2009 - 2014"
+    }
+  ]
+}

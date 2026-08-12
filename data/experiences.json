@@ -1,0 +1,36 @@
+{
+  "title": "Experiências",
+  "icon": "bi bi-briefcase",
+  "list": [
+    {
+      "position": "Desenvolvedor de Software",
+      "dates": "2024 - *Presente*",
+      "company": "Xprocess",
+      "details": [
+        "Atuação construindo, atuando e contribuindo para a sustentação e evolução de ERP corporativo em nuvem.",
+        "Desenvolvimento e manutenção em sistemas corporativos utilizando Java Web, JSP, JSPF, Bootstrap 4.5 e PostgreSQL.",
+        "Criação de novos fluxos em módulos de negócio complexos (como financeiro, produção, vendas e logística), garantindo estabilidade e integridade dos dados."
+      ]
+    },
+    {
+      "position": "Estagiário Desenvolvedor Full-Stack",
+      "dates": "mar de 2023 - jun de 2023",
+      "company": "DCOMP (Departamento de Computação) - UFS · Estágio ",
+      "details": [
+        "Implementação de funcionalidades pendentes, correções e ajustes em sistema de gestão departamental.",
+        "Implementação de padronização de ambiente utilizando Docker.",
+        "Trabalho em ambiente remoto com PHP/Laravel e Vue.js."
+      ]
+    },
+    {
+      "position": "Programador Back End | PHP | Laravel",
+      "dates": "fev de 2022 - mai de 2022",
+      "company": "Visu (Software de Gestão - Espaços de Beleza) · Estágio",
+      "details": [
+        "Desenvolvimento back-end voltado para sistemas de gestão.",
+        "Atuação focada em PHP e Laravel para sustentação e criação de regras de negócio.",
+        "Suporte e manutenção do sistema."
+      ]
+    }
+  ]
+}
