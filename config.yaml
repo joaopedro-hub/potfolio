@@ -29,3 +29,14 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+security:
+  exec:
+    allow:
+      - '^tailwindcss$'
+      - '^npx$'
+      - '^npm$'
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^TZ$'      
